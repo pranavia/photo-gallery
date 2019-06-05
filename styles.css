@@ -1,3 +1,181 @@
 img {
   margin: 10px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+h2{
+  border:solid 3px;
+  margin: 10px;
+  width: 300px;
+  height: 295px;
+font-family: 'Indie Flower', cursive;
+}
+
+body{
+background-color:#CFFFC9;
+}
+
+
+
+
+.first{
+  display: flex;
+  flex-direction:row;
+}
+
+.second{
+  display: flex;
+  flex-direction: row;
+}
+
+.third{
+  display: flex;
+  flex-direction: row;
+}
+
+.fourth{
+  display: flex;
+  flex-direction: row;
+}
+
+.five{
+  display: flex;
+  flex-direction: row;
+}
+
+.six{
+  display: flex;
+  flex-direction: row;
+}
+
+.seven{
+  display: flex;
+  flex-direction: row;
+}
+
+.eight{
+  display: flex;
+  flex-direction: row;
+}
+
+.nine{
+  display: flex;
+  flex-direction: row;
+}
+
+.ten{
+  display: flex;
+  flex-direction: row;
+}
+
+.eleven{
+  display: flex;
+  flex-direction: row;
+}
+
+.twelve{
+  display: flex;
+  flex-direction: row;
+}
+
+.thirteen{
+  display: flex;
+  flex-direction: row;
+}
+
+.fourteen{
+  display: flex;
+  flex-direction: row;
+}
+
+.fifteen{
+  display: flex;
+  flex-direction: row;
+}
+
+.sixteen{
+  display: flex;
+  flex-direction: row;
+}
+
+.seventeen{
+  display: flex;
+  flex-direction: row;
+}
+
+.eighteen{
+  display: flex;
+  flex-direction: row;
+}
+
+
+.nineteen{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty-one{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty-two{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty-three{
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+.twenty-four{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty-five{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty-six{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty-seven{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty-eight{
+  display: flex;
+  flex-direction: row;
+}
+
+.twenty-nine{
+  display: flex;
+  flex-direction: row;
+}
+
+.thirty{
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
